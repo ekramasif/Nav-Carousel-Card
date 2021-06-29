@@ -34,3 +34,9 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+
+}

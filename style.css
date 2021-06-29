@@ -5,3 +5,19 @@
 .container{
     margin-bottom: 30px;
 }
+.carousel-bg{
+    background-color: #fceae8;
+}
+
+.btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.price{
+    color: #FF136F;
+}

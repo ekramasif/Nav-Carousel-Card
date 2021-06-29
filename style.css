@@ -21,3 +21,16 @@
 .price{
     color: #FF136F;
 }
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(144, 144, 144);
+}
+.btn-submit{
+    background-image: linear-gradient(to bottom, #7f3dfa 0%, #5d00aa 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
